@@ -24,7 +24,7 @@
 
 .row {
   display: flex;
-  flex-direction: ;
+  flex-direction: row; /* Specify a valid flex-direction */
   gap: 10px;
 }
 
